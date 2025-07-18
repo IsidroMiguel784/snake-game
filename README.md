@@ -7,8 +7,7 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 
 ## 🎮 Demo en vivo
 
-👉 Puedes jugar al juego directamente desde este enlace:  
-[https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)  
+👉 Puedes jugar al juego directamente desde este enlace: [https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)  
 
 ---
 
@@ -50,11 +49,17 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 El proyecto está organizado en carpetas de forma modular y sencilla:
 
 SNAKE-GAME/
+
 ├── css/
+
 │ └── style.css # Estilos del juego (fondo, colores, etc.)
+
 ├── js/
+
 │ └── main.js # Toda la lógica y el bucle del juego
+
 ├── index.html # Estructura principal del juego
+
 └── README.md # Este archivo de documentación
 
 
