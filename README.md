@@ -7,8 +7,7 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 
 ## 🎮 Demo en vivo
 
-👉 Puedes jugar al juego directamente desde este enlace:  
-[https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)
+👉 Puedes jugar al juego directamente desde este enlace:  [https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)
 
 ---
 
