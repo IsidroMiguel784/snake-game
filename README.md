@@ -7,7 +7,8 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 
 ## 🎮 Demo en vivo
 
-👉 Puedes jugar al juego directamente desde este enlace:  [https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)
+👉 Puedes jugar al juego directamente desde este enlace:  
+[https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)  
 
 ---
 
@@ -49,7 +50,6 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 El proyecto está organizado en carpetas de forma modular y sencilla:
 
 SNAKE-GAME/
-
 ├── css/
 │ └── style.css # Estilos del juego (fondo, colores, etc.)
 ├── js/
@@ -71,11 +71,18 @@ SNAKE-GAME/
 
 ---
 
+## 📝 Licencia
+
+Este proyecto está bajo la licencia MIT.
+Puedes copiar, modificar, compartir y usar este código para fines personales o comerciales.
+
+---
+
 ## 🚀 Cómo jugar localmente
 
 Puedes clonar el proyecto en tu máquina y ejecutarlo en cualquier navegador moderno:
 
 ```bash
-git clone https://github.com/IsidroMiguel784/snake-game.git
+git clone https://isidromiguel784.github.io/snake-game/
 cd snake-game
 # Luego abre el archivo index.html con doble clic o en tu navegador
