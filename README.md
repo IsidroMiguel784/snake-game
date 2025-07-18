@@ -8,8 +8,7 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 ## 🎮 Demo en vivo
 
 👉 Puedes jugar al juego directamente desde este enlace:  
-[https://TU_USUARIO.github.io/snake-game/](https://TU_USUARIO.github.io/snake-game/)  
-> ⚠️ Recuerda reemplazar `TU_USUARIO` con tu nombre real de usuario de GitHub una vez que actives GitHub Pages.
+[https://isidromiguel784.github.io/snake-game/](https://isidromiguel784.github.io/snake-game/)
 
 ---
 
@@ -77,6 +76,6 @@ SNAKE-GAME/
 Puedes clonar el proyecto en tu máquina y ejecutarlo en cualquier navegador moderno:
 
 ```bash
-git clone https://github.com/TU_USUARIO/snake-game.git
+git clone https://github.com/IsidroMiguel784/snake-game.git
 cd snake-game
 # Luego abre el archivo index.html con doble clic o en tu navegador
