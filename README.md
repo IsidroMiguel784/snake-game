@@ -49,6 +49,7 @@ Está pensado como una práctica personal para afianzar conocimientos de program
 El proyecto está organizado en carpetas de forma modular y sencilla:
 
 SNAKE-GAME/
+
 ├── css/
 │ └── style.css # Estilos del juego (fondo, colores, etc.)
 ├── js/
